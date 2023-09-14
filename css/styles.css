@@ -92,6 +92,12 @@
     
 }
 
+.tarjeta-2{
+    width: 200px;
+    margin-bottom: 30px;
+    
+}
+
 .encabezado{
     padding-left: 30px;
     background-color: #000000;
@@ -110,6 +116,19 @@
 .cuerpo{
     padding:50px;
     border: 2px solid rgb(224, 221, 221);
+}
+
+.cuerpo-2{
+    padding:15px;
+    border: 2px solid rgb(224, 221, 221);
+}
+
+.cuerpo-2>p{
+    margin: 10px 0;
+}
+
+span{
+    font:bold;
 }
 
 .usuario {
