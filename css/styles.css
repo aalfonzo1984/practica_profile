@@ -92,6 +92,11 @@
   width: 300px;
   margin-bottom: 30px;
 }
+.tarjeta-2-footer{
+    padding: 10px 15px;
+    height: 30px;
+    border: 2px solid rgb(224, 221, 221);
+}
 
 .encabezado {
   padding-left: 30px;
